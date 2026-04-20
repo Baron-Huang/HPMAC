@@ -1,18 +1,18 @@
-# AE-PATH
-Actively Explainable Pathology Universal-semantics Model: Instance-cluster Multi-global Effects driven-Deep Graph-regularized Tensor Clustering
+# MimPath
+An Interactive and Interpretable Multimodal Large Language Model for Mimicking Pathologists Diagnosis
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Chentao Li, Chi Zhang, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
 
 ## :fire: News
 
-- [2026/01/25] Our manuscript will be submitted to _Nature Biomedical Engineering_ (IF 26.7).
+- [xxx/xxx/xxx] xxx
 
 
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Actively Explainable Pathology Universal-semantics Model: Instance-cluster Multi-global Effects driven-Deep Graph-regularized Tensor Clustering (AE-PATH)** method:
+Here's an overview of our **Interactive and Interpretable Multimodal Large Language Model (MimPath)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
