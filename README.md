@@ -1,5 +1,5 @@
 # HPMAC
-Human Prior-aligning Multi-instance Active Circuits for Mechanistically Interactive Squamous Cell Carcinoma Grading
+Human Prior-aligning Multi-instance Active Circuits for Mechanistically Interactive Squamous Pathological Grading
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Chentao Li, Chi Zhang, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
