@@ -1,5 +1,5 @@
-# MimPath
-An Interactive and Interpretable Multimodal Large Language Model for Mimicking Pathologists Diagnosis
+# HPMAC
+Human Prior-aligning Multi-instance Active Circuits for Mechanistically Interactive Squamous Cell Carcinoma Grading
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Chentao Li, Chi Zhang, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
@@ -12,7 +12,7 @@ Pan Huang, Chentao Li, Chi Zhang, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Y
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Interactive and Interpretable Multimodal Large Language Model (MimPath)** method:
+Here's an overview of our **Human Prior-aligning Multi-instance Active Circuits (HPMAC)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
