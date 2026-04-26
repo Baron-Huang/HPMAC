@@ -1,4 +1,4 @@
-# HPMAC
+# HACircuit
 Human-prior Aligned Multi-order Instance Interaction Circuits for Mechanistically Interpretable Pan-squamous Pathological Grading
 
 ## 🧔: Authors [*Corresponding author]
@@ -12,7 +12,7 @@ Pan Huang, Chentao Li, Chi Zhang, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Y
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Human-prior Aligned Multi-order Instance Interaction Circuits (HAMIIC)** method:
+Here's an overview of our **Human-prior Aligned Multi-order Instance Interaction Circuits (HACircuit)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
