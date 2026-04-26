@@ -1,5 +1,5 @@
 # HPMAC
-Human Prior-aligning Multi-instance Active Circuits for Mechanistically Interactive Squamous Pathological Grading
+Human-prior Aligned Multi-order Instance Interaction Circuits for Mechanistically Interpretable Pan-squamous Pathological Grading
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Chentao Li, Chi Zhang, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
@@ -12,7 +12,7 @@ Pan Huang, Chentao Li, Chi Zhang, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Y
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Human Prior-aligning Multi-instance Active Circuits (HPMAC)** method:
+Here's an overview of our **Human-prior Aligned Multi-order Instance Interaction Circuits (HAMIIC)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
